@@ -1,0 +1,8 @@
+Aluno: Rafael Prado
+1 - Imprimir "ola mundo" na tela
+
+2 - Mostrar todo o programa prog.c sem os comentarios
+
+1 - echo 'Ola Mundo'
+
+2 - grep -v  '//' prog.c
